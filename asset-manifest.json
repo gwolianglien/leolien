@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leolien/static/css/main.1c834007.css",
-    "main.js": "/leolien/static/js/main.3a790610.js",
+    "main.css": "/leolien/static/css/main.d799ad42.css",
+    "main.js": "/leolien/static/js/main.73520fb5.js",
     "static/js/787.795da6a2.chunk.js": "/leolien/static/js/787.795da6a2.chunk.js",
     "index.html": "/leolien/index.html",
-    "main.1c834007.css.map": "/leolien/static/css/main.1c834007.css.map",
-    "main.3a790610.js.map": "/leolien/static/js/main.3a790610.js.map",
+    "main.d799ad42.css.map": "/leolien/static/css/main.d799ad42.css.map",
+    "main.73520fb5.js.map": "/leolien/static/js/main.73520fb5.js.map",
     "787.795da6a2.chunk.js.map": "/leolien/static/js/787.795da6a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c834007.css",
-    "static/js/main.3a790610.js"
+    "static/css/main.d799ad42.css",
+    "static/js/main.73520fb5.js"
   ]
 }
