@@ -6,7 +6,7 @@ function Home() {
     <div className="flex-col-container center">
       <div className="flex-row">
         Hi, I'm Leo.
-        I write code and I’m passionate about food, music, and people.
+        I'm a builder who is also passionate about food, music, and people.
       </div>
       <br />
       <div className="flex-row">
