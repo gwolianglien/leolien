@@ -46,6 +46,9 @@
   .navbar-hover:hover {
     opacity: 1;
   }
+  .navbar-always-visible {
+    opacity: 1;
+  }
 }
 @media screen and (max-width: 991px) {
   .navbar-hover {
