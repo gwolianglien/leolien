@@ -1,4 +1,4 @@
-import { BsGithub, BsLinkedin, BsMedium } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsMedium, BsCalendarCheck} from "react-icons/bs";
 import { iconContainer } from '../styles/styles';
 
 function Home() {
@@ -18,6 +18,9 @@ function Home() {
         </a>
         <a className="flex-col icon-spacing" href="https://medium.com/@leolien" target="_blank" rel="noreferrer" aria-describedby="Medium"> 
           <BsMedium style={iconContainer}/>
+        </a>
+        <a className="flex-col icon-spacing" href="https://calendly.com/gwolianglien/30min" target="_blank" rel="noreferrer" aria-describedby="Calendly">
+          <BsCalendarCheck style={iconContainer} />
         </a>
       </div>
     </div>

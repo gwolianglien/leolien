@@ -14,9 +14,6 @@ const Navbar = () => {
           <li className="nav-item">
             <Link className="nav-link" to='/leolien/projects' href="#">Projects</Link>
           </li>
-          <li className="nav-item">
-            <Link className="nav-link" to='/leolien/contact' href="#">Contact</Link>
-          </li>
         </ul>
       </div>
     </nav>
