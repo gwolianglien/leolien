@@ -40,13 +40,6 @@
 
 @media screen and (min-width: 992px) {
   .navbar-hover {
-    opacity: 0;
-    transition: opacity .3s, top .5s;
-  }
-  .navbar-hover:hover {
-    opacity: 1;
-  }
-  .navbar-always-visible {
     opacity: 1;
   }
 }
